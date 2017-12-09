@@ -1,3 +1,3 @@
 # hello-world
-Demo Project
+New
 First project on github
